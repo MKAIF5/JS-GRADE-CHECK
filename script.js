@@ -27,4 +27,8 @@ document.getElementById("checkPer").addEventListener("click", function (event) {
   else {
    answer.innerHTML =  "You Are Fail"
   }
+
+
+
+  
 });
